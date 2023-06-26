@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: greenyellow;
+}
+h3{
+    color: chocolate;
+}
+body{
+    background-color: black;
+}
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */
+.button4 {background-color: orange;} /* Orange */
+.button5 {background-color: #555555;} /* Black */
+.button6 {background-color: yellowgreen;} /* Yellow Green */
+.button7 {background-color: cyan;} /* Cyan */
+.button8 {background-color: white;} /* White */
+.button9 {background-color: yellow;} /* Yellow */
+.button10 {background-color: green} /* science*/
